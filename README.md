@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 
 ##### On YouTube
 [![Win the game](http://img.youtube.com/vi/g1eU_De42M0/0.jpg)](https://www.youtube.com/watch?v=g1eU_De42M0 "When you win the Light and Sound Memory Game")
-[![Loss the game](https://img.youtube.com/vi/ZLdlRv8-3tk.jpg)](https://www.youtube.com/watch?v=ZLdlRv8-3tk "When you loss the Light and Sound Memory Game")
+[![Loss the game](http://img.youtube.com/vi/ZLdlRv8-3tk/0.jpg)](https://www.youtube.com/watch?v=ZLdlRv8-3tk "When you loss the Light and Sound Memory Game")
 
 
 
