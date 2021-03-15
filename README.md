@@ -45,8 +45,10 @@ Here's a walkthrough of implemented user stories:
 ##### Win the game
 ![Win the game](https://cdn.glitch.com/c900ee34-f91e-44e9-88f7-4f09930dbf98%2Fwin.gif)
 
-![Loss the game](https://youtu.be/ZLdlRv8-3tk)
-![Win the game] (https://youtu.be/g1eU_De42M0)
+##### On YouTube
+[![Win the game](http://img.youtube.com/vi/g1eU_De42M0/0.jpg)](https://www.youtube.com/watch?v=g1eU_De42M0 "When you win the Light and Sound Memory Game")
+[![Loss the game](https://img.youtube.com/vi/ZLdlRv8-3tk.jpg)](https://www.youtube.com/watch?v=ZLdlRv8-3tk "When you loss the Light and Sound Memory Game")
+
 
 
 
