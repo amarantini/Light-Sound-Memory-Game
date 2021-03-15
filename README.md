@@ -40,8 +40,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Loss the game](https://cdn.glitch.com/c900ee34-f91e-44e9-88f7-4f09930dbf98%2Floss.gif)
+[![Loss the game](https://cdn.glitch.com/c900ee34-f91e-44e9-88f7-4f09930dbf98%2Floss.gif)]
+[![Loss the game](https://youtu.be/ZLdlRv8-3tk)]
 ![Win the game](https://cdn.glitch.com/c900ee34-f91e-44e9-88f7-4f09930dbf98%2Fwin.gif)
+[![Win the game] (https://youtu.be/g1eU_De42M0)]
 
 
 
